@@ -6,13 +6,16 @@
  .cabecalho {
     color: white;
     margin-left: 660px;
-    
+    text-align: center;
+    display: flex;
  }
 
  .cabecalho-lista-1 {
-color:white;
-margin-left: 40px; /*espaçamento á esquerda*/
-padding: 20px; /*espaçamento vertical*/
+    color:#FFFFFF;
+    margin-left: 260px; /*espaçamento á esquerda*/
+    padding: 40px; /*espaçamento vertical*/
+    display: inline-block;
+    justify-content: center;
  }
 
  .cabecalho-lista-2 {
